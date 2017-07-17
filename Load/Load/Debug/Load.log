@@ -1,0 +1,7 @@
+﻿  Load.cpp
+c:\users\admin\documents\visual studio 2017\projects\load\load\load.cpp(42): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_wstring.h(127): note: 参见“wcscpy”的声明
+c:\users\admin\documents\visual studio 2017\projects\load\load\load.cpp(106): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_wstring.h(127): note: 参见“wcscpy”的声明
+  Load.vcxproj -> c:\users\admin\documents\visual studio 2017\Projects\Load\Debug\Load.exe
+  Load.vcxproj -> c:\users\admin\documents\visual studio 2017\Projects\Load\Debug\Load.pdb (Partial PDB)

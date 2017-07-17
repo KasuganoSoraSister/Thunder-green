@@ -1,0 +1,8 @@
+如果软件操作失败，请按照以下步骤手动操作:
+
+1:迅雷目录找到XLUserS.DLL
+例如我的是C:\Program Files (x86)\Thunder Network\Thunder9\Program\XLUserS.DLL
+
+2:重命名为XLUserS1.DLL
+
+3:把软件目录的XLUserS.DLL放进去
